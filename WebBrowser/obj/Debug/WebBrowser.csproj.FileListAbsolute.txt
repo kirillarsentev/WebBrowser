@@ -1,0 +1,14 @@
+C:\Users\arsen\OneDrive\Рабочий стол\WebBrowser-master\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\arsen\OneDrive\Рабочий стол\WebBrowser-master\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\arsen\OneDrive\Рабочий стол\WebBrowser-master\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\arsen\OneDrive\Рабочий стол\WebBrowser-master\WebBrowser\obj\Debug\WebBrowser.csproj.AssemblyReference.cache
+C:\Users\arsen\OneDrive\Рабочий стол\WebBrowser-master\WebBrowser\obj\Debug\WebBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\arsen\OneDrive\Рабочий стол\WebBrowser-master\WebBrowser\obj\Debug\WebBrowser.FavPage.resources
+C:\Users\arsen\OneDrive\Рабочий стол\WebBrowser-master\WebBrowser\obj\Debug\WebBrowser.HistoryPage.resources
+C:\Users\arsen\OneDrive\Рабочий стол\WebBrowser-master\WebBrowser\obj\Debug\WebBrowser.MainForm.resources
+C:\Users\arsen\OneDrive\Рабочий стол\WebBrowser-master\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\arsen\OneDrive\Рабочий стол\WebBrowser-master\WebBrowser\obj\Debug\WebBrowser.WebPage.resources
+C:\Users\arsen\OneDrive\Рабочий стол\WebBrowser-master\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.cache
+C:\Users\arsen\OneDrive\Рабочий стол\WebBrowser-master\WebBrowser\obj\Debug\WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\arsen\OneDrive\Рабочий стол\WebBrowser-master\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\arsen\OneDrive\Рабочий стол\WebBrowser-master\WebBrowser\obj\Debug\WebBrowser.pdb
