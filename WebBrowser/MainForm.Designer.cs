@@ -46,6 +46,7 @@
             this.историяToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.закладкиToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.label2 = new System.Windows.Forms.Label();
             this.menu.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -73,19 +74,20 @@
             this.label.Name = "label";
             this.label.Size = new System.Drawing.Size(158, 48);
             this.label.TabIndex = 1;
-            this.label.Text = "яндекс";
+            this.label.Text = "Google";
             // 
             // label1
             // 
             this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.Location = new System.Drawing.Point(429, 322);
+            this.label1.Location = new System.Drawing.Point(453, 318);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(335, 34);
+            this.label1.Size = new System.Drawing.Size(191, 34);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Введите URL адрес...";
+            this.label1.Text = "Введите URL";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // prevButton
             // 
@@ -268,12 +270,24 @@
             this.menuStrip1.TabIndex = 12;
             this.menuStrip1.Text = "menuStrip1";
             // 
+            // label2
+            // 
+            this.label2.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(372, 226);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(356, 20);
+            this.label2.TabIndex = 14;
+            this.label2.Text = "импортозамещение,которое мы заслуживаем";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.ClientSize = new System.Drawing.Size(1206, 694);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.addToFavList);
             this.Controls.Add(this.refreshButton);
             this.Controls.Add(this.secSearchButton);
@@ -322,6 +336,7 @@
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem историяToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem закладкиToolStripMenuItem;
+        private System.Windows.Forms.Label label2;
     }
 }
 
